@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+D:\ARooSH\CS\C++\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(81,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication3.vcxproj -> D:\ARooSH\CS\C++\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
